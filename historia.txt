@@ -1,5 +1,5 @@
 Archivo de texto para la practica
 
-este es mi nombre y mi edad
+Naci en Venezuela y vivo en el zulia
 
-Junior y tengo 22 años
+Junior y tengo 23 años
