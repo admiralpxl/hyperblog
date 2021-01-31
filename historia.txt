@@ -1,0 +1,5 @@
+Archivo de texto para la practica
+
+este es mi nombre y mi edad
+
+Junior y tengo 22 años
