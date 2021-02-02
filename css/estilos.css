@@ -15,6 +15,17 @@ body {
 
 }
 
+#cabecera {
+    background-color: #33f;
+    font-size: 30px;
+    color: white;
+    box-shadow: 0px 2px 20px 0px black;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;   
+    text-align: left;
+}
+
 #post {
     font-size: 15px;
 }
