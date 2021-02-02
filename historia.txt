@@ -1,5 +1,5 @@
 Archivo de texto para la practica
 
-Naci en Venezuela y vivo en el zulia
+este es mi nombre y mi edad
 
-Junior y tengo 23 años y vida y maestria.
+Y mañana practicara css animaciones y mas.
