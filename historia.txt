@@ -2,4 +2,6 @@ Archivo de texto para la practica
 
 este es mi nombre y mi edad
 
+master 1
+
 Y mañana practicara css animaciones y mas.
