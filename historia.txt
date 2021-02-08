@@ -2,6 +2,8 @@ Archivo de texto para la practica
 
 este es mi nombre y mi edad
 
+experimento 1
+
 master 1
 
 master 2
